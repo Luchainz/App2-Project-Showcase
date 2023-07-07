@@ -15,3 +15,8 @@ with col2:
     machine learning, and data analysis. Tap in!
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the appsI have built in Python. Feel free to contact me
+"""
+st.write(content2)
